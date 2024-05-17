@@ -1,4 +1,4 @@
-# Usability Heuristics for User Interface Design
+# Usability Heuristics for User Interface Design 🎀
 
 > Livia Alves de Faria - 3° SEM/DSM
 > 
@@ -55,6 +55,18 @@
 </details>
 
 <details>
+    <summary><b>3. Controle e liberdade para o usuário</b></summary>
+    <br>
+    <ul>
+        <li>Essa heurística visa ter uma "saída de emergência" pro usuário caso ele cometa uma ação indesejada.</li>
+        <li>No site do <em>Imgur</em>, essa heurística não é colocada em uso, visto que quando o usuário clica em "Editar" ou "Deletar", não há um botão de "Voltar", para eles cancelarem a ação. Fora que, ao deletar uma imagem, ela é apagada permanentemente, sem confirmação, e sem ir para a lixeira.</li>
+    </ul>
+    <div align="center">
+        <img alt="Imgur" src="https://i.imgur.com/81HGAOW.png" width="800">
+    </div>
+</details>
+
+<details>
     <summary><b>4. Consistência e Padronização</b></summary>
     <br>
     <ul>
@@ -75,6 +87,13 @@
     </ul>
     <div align="center">
         <img alt="Prevenção de erros - Detran" src="https://i.imgur.com/i2NTOY1.png" width="800">
+    </div>
+    <br>
+    <ul>
+        <li>Um outro exemplo de um erro dessa heurística, é o site <em>Imgur</em>, que serve para hospedar imagens. Quando o usuário vai deletar alguma imagem, ele não oferece nenhum alerta depois de clicar o botão de "Deletar", e logo depois já deleta as imagens permanentemente.</li>
+    </ul>
+        <div align="center">
+        <img alt="Prevenção de erros - Imgur" src="https://i.imgur.com/2JjX0U1.png" width="800">
     </div>
 </details>
 
@@ -130,10 +149,28 @@
     </div>
     <br>
     <ul>
-        <li>No site do <em>Detran</em>, que já foi citado anteriormente com um erro da heurística 5, na mesma interface, tem um acerto da heurística 9, pois se o usuário digita um dos campos de forma incorreta, a plataforma mostra um alerta mostrando o erro e explicando o que está errado.</li>
+        <li>No site do <em>Detran</em>, que já foi citado anteriormente com um erro da heurística 5, na mesma interface, tem um <strong>acerto</strong> da heurística 9, pois se o usuário digita um dos campos de forma incorreta, a plataforma mostra um alerta mostrando o erro e explicando o que está errado.</li>
     </ul>
     <div align="center">
         <img alt="Login - detran" src="https://i.imgur.com/OeggH0g.png" width="800">
     </div>
 </details>
 
+<details>
+    <summary><b>10. Ajuda e documentação</b></summary>
+    <br>
+    <ul>
+        <li>Essa heurística visa prover documentação e explicações sobre e plataforma e sua interface para ajudar os usuário quando eles estiverem usando-a.</li>
+        <li>No site do <em>Cinemark</em>, quando o usuário vai finalizar sua compra, e ele escolhe pagar cm cartão, não há em lugar nenhum no formulário uma documentação pra ajudar o usuário a achar as informações corretar que devem ser preenchidas nos campos, como no código de segurança, que geralmente aparece om uma imagem ao lado do campo, mostrando onde fica esse código no cartão, para auxiliar o usuário.</li>
+    </ul>
+    <div align="center">
+        <img alt="Cinemark" src="https://i.imgur.com/3VCeF0y.png" width="800">
+    </div>
+    <br>
+    <ul>
+        <li>Como foi dito anteriormente, um <strong>acerto</strong> dessa heurística, seria fornecer uma imagem ou explicação auxiliando o usuário a preencher corretamente os campos relacionados ao cartão na hora de finalizar um pagamento. O que ocorre no site do <em>Kinoplex</em>.</li>
+    </ul>
+        <div align="center">
+        <img alt="Kinoplex" src="https://i.imgur.com/fxSkCvj.png" width="800">
+    </div>
+</details>
